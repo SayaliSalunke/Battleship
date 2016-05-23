@@ -1,3 +1,4 @@
+#include <printboard.h>
 #include <stdio.h>
 int main() {
 	char shiprow, shipcol;
